@@ -12,3 +12,8 @@ Item         | Quantity
 [Shaft Coupler](https://www.mcmaster.com/2464K19/) | 1 
 [Nema 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 1 
 [T Nut and Bolt](https://www.mcmaster.com/47065T139/) | 6 
+
+
+## Fusion 360 Model
+
+<iframe src="https://vanderbilt425.autodesk360.com/shares/public/SH56a43QTfd62c1cd968211893976aa622ea?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
