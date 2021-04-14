@@ -10,8 +10,8 @@
 
 ## Electrical Wiring Images
 
-![Syringe Pump Breadboard](/Syringe-Pump/Assets/Breadboard)
+![Syringe Pump Breadboard](/Syringe-Pump/Assets/Breadboard.HEIC)
 
-![Syringe Pump Breadboard Connected](/Syringe-Pump/Assets/Connected Breadboard)
+![Syringe Pump Breadboard Connected](/Syringe-Pump/Assets/Connected Breadboard.HEIC)
 
-![Breadboard and Arduino Connected](/Syringe-Pump/Assets/Breadboard and Arduino)
+![Breadboard and Arduino Connected](/Syringe-Pump/Assets/Breadboard and Arduino.HEIC)
