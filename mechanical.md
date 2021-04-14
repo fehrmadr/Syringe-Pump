@@ -22,3 +22,26 @@ Item         | Quantity
 ## Fusion 360 Model
 
 <iframe src="https://vanderbilt425.autodesk360.com/shares/public/SH56a43QTfd62c1cd968211893976aa622ea?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Assembly Images for Syringe Pump
+
+![Electrical Diagram for Syringe Pump](/Syringe-Pump/Assets/Tip Holder)
+
+![Tip Holder and Barrel Holder](/Syringe-Pump/Assets/Tip and Barrel Holders)
+
+![Syringe in Holders](/Syringe-Pump/Assets/Syringe in Holders)
+
+![Linear Rod in Tip Holder](/Syringe-Pump/Assets/Linear Rod in Tip Holder)
+
+![Linear Rod Set in Holders](/Syringe-Pump/Assets/Linear Rod in Holders)
+
+![Stepper Motor with Mount](/Syringe-Pump/Assets/Motor with Mount)
+
+![Motor with Mount and Coupler](/Syringe-Pump/Assets/Motor with Mount and Coupler)
+
+![Motor Connected to Plunger](/Syringe-Pump/Assets/Motor Mount Rods Plunger)
+
+![Electrical Components](/Syringe-Pump/Assets/Breadboard and Arduino)
+
+![Complete Syringe Pump](/Syringe-Pump/Assets/Complete)
+
