@@ -25,23 +25,23 @@ Item         | Quantity
 
 ## Assembly Images for Syringe Pump
 
-![Electrical Diagram for Syringe Pump](/Syringe-Pump/Assets/Tip Holder)
+![Electrical Diagram for Syringe Pump](/Syringe-Pump/Assets/Tip Holder.png)
 
-![Tip Holder and Barrel Holder](/Syringe-Pump/Assets/Tip and Barrel Holders)
+![Tip Holder and Barrel Holder](/Syringe-Pump/Assets/Tip and Barrel Holders.png)
 
-![Syringe in Holders](/Syringe-Pump/Assets/Syringe in Holders)
+![Syringe in Holders](/Syringe-Pump/Assets/Syringe in Holders.png)
 
-![Linear Rod in Tip Holder](/Syringe-Pump/Assets/Linear Rod in Tip Holder)
+![Linear Rod in Tip Holder](/Syringe-Pump/Assets/Linear Rod in Tip Holder.png)
 
-![Linear Rod Set in Holders](/Syringe-Pump/Assets/Linear Rod in Holders)
+![Linear Rod Set in Holders](/Syringe-Pump/Assets/Linear Rod in Holders.png)
 
-![Stepper Motor with Mount](/Syringe-Pump/Assets/Motor with Mount)
+![Stepper Motor with Mount](/Syringe-Pump/Assets/Motor with Mount.png)
 
-![Motor with Mount and Coupler](/Syringe-Pump/Assets/Motor with Mount and Coupler)
+![Motor with Mount and Coupler](/Syringe-Pump/Assets/Motor with Mount and Coupler.png)
 
-![Motor Connected to Plunger](/Syringe-Pump/Assets/Motor Mount Rods Plunger)
+![Motor Connected to Plunger](/Syringe-Pump/Assets/Motor Mount Rods Plunger.png)
 
-![Electrical Components](/Syringe-Pump/Assets/Breadboard and Arduino)
+![Electrical Components](/Syringe-Pump/Assets/Breadboard and Arduino.png)
 
-![Complete Syringe Pump](/Syringe-Pump/Assets/Complete)
+![Complete Syringe Pump](/Syringe-Pump/Assets/Complete.png)
 
