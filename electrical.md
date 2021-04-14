@@ -6,3 +6,12 @@
 # Electrical Wiring of Syringe Pump
 
 ![Electrical Diagram for Syringe Pump](/Syringe-Pump/Assets/)
+
+
+## Electrical Wiring Images
+
+![Syringe Pump Breadboard](/Syringe-Pump/Assets/Breadboard)
+
+![Syringe Pump Breadboard Connected](/Syringe-Pump/Assets/Connected Breadboard)
+
+![Breadboard and Arduino Connected](/Syringe-Pump/Assets/Breadboard and Arduino)
