@@ -1,5 +1,8 @@
 # Arduino Code for Syringe Pump
 
+Below is code used for the Arduino Uno and Mega.
+This can be copied and pasted into the Arduino IDE.
+
 ```
 // Define pin connections & motor's steps per revolution
 const int dirPin = 2;
